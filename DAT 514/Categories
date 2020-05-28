@@ -1,0 +1,11 @@
+<div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="Categories">
+    <a class="dropdown-item" href="http://127.0.0.1:5500/Photography.html">Photography</a>
+    <a class="dropdown-item" href="http://127.0.0.1:5500/Drawings.html">Drawings</a>
+    <a class="dropdown-item" href="http://127.0.0.1:5500/Digital%20Designs.html">Digital Designs</a>
+    
+  </div>

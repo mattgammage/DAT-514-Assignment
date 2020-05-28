@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'QuicksandBook';
+    src: url('QuicksandBook');
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+#content {
+    overflow: auto;
+    height: 100%;
+}
+#nav, #feature, #footer {
+    background-color: DarkCyan;
+    padding: 10px;
+    margin: 10px;
+}
+li {
+    display: inline;
+    padding: 5px;
+}

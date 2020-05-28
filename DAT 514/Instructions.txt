@@ -1,0 +1,5 @@
+Once the page is open and a person signs in, they are directed to the Home Page where a person can view all of the images that are on the webpage.
+
+The navbar allows a person to navigate through the page, includeing the dropdown categories tab, which displays three different categories, each with its own individual page that has images only in that category.
+
+The leaderboard displays which person has the highest score and which category is the one they use the most.
